@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: NFTMyImage
-email: your-email@example.com
+email: kyle@dmt.llc
 description: >- # this means to ignore newlines until "baseurl:"
   At NFTMyImage - we believe that creating NFTs should be insanely simple and low cost for all. It is built by a small geographically distributed group of engineers on the Algorand blockchain.
 baseurl: "/blog.nftmyimage.com" # the subpath of your site, e.g. /blog
