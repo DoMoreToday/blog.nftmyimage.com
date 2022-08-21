@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Announcing NFTMyImage v1.0"
-date:   2022-08-19 08:00:00 -0700
+date:   2022-08-20 08:00:00 -0700
 ---
-![NFTMyImage x Algorand](/blog.nftmyimage.com/assets/Blogpost_image.png)
+![NFTMyImage x Algorand](/assets/Blogpost_image.png)
 
 In collaboration with the Algorand Foundation, We are thrilled to announce the general launch of NFTMyImage - the fastest, cheapest, and easiest way to mint NFTs from any image.
 
@@ -44,7 +44,7 @@ For the nerds like us, you’ll appreciate that our images are stored on IPFS an
 
 # About NFTMyImage
 
-![about-img](/blog.nftmyimage.com/assets/Frame_90.png) ![about-img](/blog.nftmyimage.com/assets/Frame_91.png) ![about-img](/blog.nftmyimage.com/assets/Frame_92.png) ![about-img](/blog.nftmyimage.com/assets/Frame_93.png)
+![about-img](/assets/Frame_90.png) ![about-img](/assets/Frame_91.png) ![about-img](/assets/Frame_92.png) ![about-img](/assets/Frame_93.png)
 
 NFTMyImage is a small distributed team of curious engineers. You can find us @NFTMyImage on Twitter, where we tweet updates and get into silly Twitter exchanges. NFTMyImage is supported by the Algorand Foundation Grants Program. You can visit nftmyimage.com to try it out and learn more.
 

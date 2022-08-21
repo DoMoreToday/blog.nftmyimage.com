@@ -22,8 +22,8 @@ title: NFTMyImage
 email: kyle@dmt.llc
 description: >- # this means to ignore newlines until "baseurl:"
   At NFTMyImage - we believe that creating NFTs should be insanely simple and low cost for all. It is built by a small geographically distributed group of engineers on the Algorand blockchain.
-baseurl: "/blog.nftmyimage.com" # the subpath of your site, e.g. /blog
-url: "https://domoretoday.github.io/blog.nftmyimage.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nftmyimage
 github_username:  jekyll
 
