@@ -36,6 +36,8 @@ Some use cases we’ve already heard about from our beta users **outside of the 
 
 # How it works
 
+<iframe width="100%" height="320" src="https://www.youtube.com/embed/LlL1AlsAahQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Hopefully we’ve made NFTMyImage.com so easy to use that you don’t even need this section. You upload an image, name your NFT, and voila - you have an NFT. 
 
 For advanced users, you can transfer your freshly minted NFT to a wallet of your choosing that supports Algorand based NFTs - whether it’s via Pera Wallet or any others supported by WalletConnect.
